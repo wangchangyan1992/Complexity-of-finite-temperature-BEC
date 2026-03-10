@@ -1,11 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Complexity of Bose-Einstein condensates at finite temperature
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-- family-names: "Wang"
-  given-names: "Chang-Yan"
-  orcid: "https://orcid.org/0000-0002-7783-9205"
-title: "Complexity of Bose-Einstein condensates at finite temperature"
-version: 1.0.0
-doi: 10.5281/zenodo.18933140
-date-released: 2026-03-09
-url: "https://github.com/wangchangyan1992/Complexity-of-finite-temperature-BEC"
+  - given-names: Chang-Yan
+    family-names: Wang
+    email: wangchangyan1992@gmail.com
+    affiliation: Chongqing University
+repository-code: 'https://github.com/wangchangyan1992/Complexity-of-finite-temperature-BEC'
+abstract: >-
+  The code for calculating the geometric complexity of Bose-Einstein condensates at finite temperature.
+license: Apache-2.0
+commit: 1.0.0
